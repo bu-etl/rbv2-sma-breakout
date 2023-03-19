@@ -383,7 +383,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "New.net",
+      "netlist": "BreakoutBoard.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
